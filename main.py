@@ -180,3 +180,5 @@ def coffee_machine():
 # TODO: 7.
 
 coffee_machine()
+
+# Just a small comment.
